@@ -1,0 +1,9 @@
+README.md
+setup.py
+transcine/__init__.py
+transcine/database.py
+transcine/video.py
+transcine.egg-info/PKG-INFO
+transcine.egg-info/SOURCES.txt
+transcine.egg-info/dependency_links.txt
+transcine.egg-info/top_level.txt

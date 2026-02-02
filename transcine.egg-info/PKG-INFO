@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: transcine
+Version: 0.0.1
+Summary: A pyhton package for video transcription.
+Home-page: https://github.com/Paul-Conan/transcine
+Author: Paul Conan
+Author-email: pconan1@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: summary
+
+
+Longue description de transcine
